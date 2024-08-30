@@ -32,3 +32,16 @@ Flex Academic Suite is an academic portal designed to streamline interactions be
 - **Database:** Microsoft SQL Server
 - **Front-end:** Html, CSS, Javascript
 
+## Screenshots
+
+![Flex Academic Suite Logo](Screenshots/Screenshot%20(144).png)
+![Flex Academic Suite Logo](Screenshots/Screenshot%20(145).png)
+![Flex Academic Suite Logo](Screenshots/Screenshot%20(146).png)
+![Flex Academic Suite Logo](Screenshots/Screenshot%20(147).png)
+![Flex Academic Suite Logo](Screenshots/Screenshot%20(148).png)
+![Flex Academic Suite Logo](Screenshots/Screenshot%20(149).png)
+
+
+
+
+
